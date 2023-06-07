@@ -18,7 +18,7 @@ touch $LOGFILENAME
 
 # Need to setup some of the variables we will need
 
-CLIENT="MTHREE"
+CLIENT="WILEYEDGE"
 BROKER="MS"
 
 HEARTBEAT=""
