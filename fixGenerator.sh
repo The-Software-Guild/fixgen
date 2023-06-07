@@ -183,6 +183,3 @@ do
 
                 echo $FULLYFILLED >> $LOGFILENAME
         fi
-
-
-done
